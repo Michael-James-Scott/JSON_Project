@@ -1,0 +1,7 @@
+.vscode/ 
+/JSON_project/
+JSON_PROJECT/
+/json_project/
+node_modules/
+json_project/Lib/
+etc/
